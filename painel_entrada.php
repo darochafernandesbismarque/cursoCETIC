@@ -45,7 +45,7 @@ a:hover {
         ?>
         <div class='container'>
             <div class='page-header'>
-                <h1 class='all-tittles'>SisMatOdonto <small>Painel de Entrada</small></h1>
+                <h1 class='all-tittles'>SisMatOdonto <small>Painel ---</small></h1>
             </div>
         </div>
 

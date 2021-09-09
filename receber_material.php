@@ -248,9 +248,9 @@ if (isset($_SESSION['nota_numero_rand'])) {
                         </div>
                     </div>
                 </div>
-                <!-- TRANSFERÊNCIA FINANCEIRA -->
+                <!------- TRANSFERÊNCIA FINANCEIRA --------->
 
-                <!-- LICITAÇÃO -->
+                <!------- LICITAÇÃO ----->
                 <div id="licitacao">
                     <div class='row'>
                         <div class='col-xs-12 col-sm-12'>
@@ -271,7 +271,7 @@ if (isset($_SESSION['nota_numero_rand'])) {
                     </div><!-- ROW -->
 
                 </div><!-- DIV -->
-                <!-- LICITAÇÃO -->
+                <!------------ LICITAÇÃO -------->
 
 
 
@@ -284,7 +284,7 @@ if (isset($_SESSION['nota_numero_rand'])) {
                         <button type='reset' class='btn btn-light' id="limpar" style='margin-right: 20px;'><i
                                 class='glyphicon glyphicon-erase'></i> &nbsp;
                             &nbsp;
-                            Limpar</button>
+                            Resetar</button>
 
                         <button type='submit' value="" id='btn_enviar' name='enviarTipoDocumento'
                             class='btn btn-primary' style='margin-right: 20px;'><i
