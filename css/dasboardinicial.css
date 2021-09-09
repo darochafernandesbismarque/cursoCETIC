@@ -1,0 +1,304 @@
+/* Font Definitions */
+@font-face {
+    font-family: Mangal;
+    panose-1: 2 4 5 3 5 2 3 3 2 2;
+    mso-font-charset: 0;
+    mso-generic-font-family: roman;
+    mso-font-pitch: variable;
+    mso-font-signature: 32771 0 0 0 1 0;
+}
+
+@font-face {
+    font-family: "Cambria Math";
+    panose-1: 2 4 5 3 5 4 6 3 2 4;
+    mso-font-charset: 0;
+    mso-generic-font-family: roman;
+    mso-font-pitch: variable;
+    mso-font-signature: -1610611985 1107304683 0 0 159 0;
+}
+
+@font-face {
+    font-family: Calibri;
+    panose-1: 2 15 5 2 2 2 4 3 2 4;
+    mso-font-charset: 0;
+    mso-generic-font-family: swiss;
+    mso-font-pitch: variable;
+    mso-font-signature: -1610611985 1073750139 0 0 159 0;
+}
+
+@font-face {
+    font-family: "Microsoft YaHei";
+    panose-1: 2 11 5 3 2 2 4 2 2 4;
+    mso-font-charset: 134;
+    mso-generic-font-family: swiss;
+    mso-font-pitch: variable;
+    mso-font-signature: -2147483001 672087122 22 0 262175 0;
+}
+
+@font-face {
+    font-family: "\@Microsoft YaHei";
+    panose-1: 2 11 5 3 2 2 4 2 2 4;
+    mso-font-charset: 134;
+    mso-generic-font-family: swiss;
+    mso-font-pitch: variable;
+    mso-font-signature: -2147483001 672087122 22 0 262175 0;
+}
+
+@font-face {
+    font-family: NSimSun;
+    panose-1: 2 1 6 9 3 1 1 1 1 1;
+    mso-font-charset: 134;
+    mso-generic-font-family: modern;
+    mso-font-pitch: fixed;
+    mso-font-signature: 3 680460288 22 0 262145 0;
+}
+
+@font-face {
+    font-family: "\@NSimSun";
+    panose-1: 2 1 6 9 3 1 1 1 1 1;
+    mso-font-charset: 134;
+    mso-generic-font-family: modern;
+    mso-font-pitch: fixed;
+    mso-font-signature: 3 680460288 22 0 262145 0;
+}
+
+@font-face {
+    font-family: "Liberation Serif";
+    mso-font-alt: "Times New Roman";
+    mso-font-charset: 0;
+    mso-generic-font-family: roman;
+    mso-font-pitch: variable;
+    mso-font-signature: 0 0 0 0 0 0;
+}
+
+@font-face {
+    font-family: "Liberation Sans";
+    mso-font-charset: 0;
+    mso-generic-font-family: swiss;
+    mso-font-pitch: variable;
+    mso-font-signature: 0 0 0 0 0 0;
+}
+
+/* Style Definitions */
+p.MsoNormal,
+li.MsoNormal,
+div.MsoNormal {
+    mso-style-unhide: no;
+    mso-style-qformat: yes;
+    mso-style-parent: "";
+    margin: 0cm;
+    margin-bottom: .0001pt;
+    mso-pagination: widow-orphan;
+    mso-hyphenate: none;
+    text-autospace: ideograph-other;
+    font-size: 12.0pt;
+    font-family: "Liberation Serif", "serif";
+    mso-fareast-font-family: NSimSun;
+    mso-bidi-font-family: Mangal;
+    mso-font-kerning: 1.5pt;
+    mso-fareast-language: ZH-CN;
+    mso-bidi-language: HI;
+}
+
+p.MsoList,
+li.MsoList,
+div.MsoList {
+    mso-style-unhide: no;
+    mso-style-parent: "Text body";
+    margin-top: 0cm;
+    margin-right: 0cm;
+    margin-bottom: 7.0pt;
+    margin-left: 0cm;
+    line-height: 115%;
+    mso-pagination: widow-orphan;
+    mso-hyphenate: none;
+    text-autospace: ideograph-other;
+    font-size: 12.0pt;
+    font-family: "Liberation Serif", "serif";
+    mso-fareast-font-family: NSimSun;
+    mso-bidi-font-family: Mangal;
+    mso-font-kerning: 1.5pt;
+    mso-fareast-language: ZH-CN;
+    mso-bidi-language: HI;
+}
+
+p.Standard,
+li.Standard,
+div.Standard {
+    mso-style-name: Standard;
+    mso-style-unhide: no;
+    mso-style-parent: "";
+    margin: 0cm;
+    margin-bottom: .0001pt;
+    mso-pagination: widow-orphan;
+    mso-hyphenate: none;
+    text-autospace: ideograph-other;
+    font-size: 12.0pt;
+    font-family: "Liberation Serif", "serif";
+    mso-fareast-font-family: NSimSun;
+    mso-bidi-font-family: Mangal;
+    mso-font-kerning: 1.5pt;
+    mso-fareast-language: ZH-CN;
+    mso-bidi-language: HI;
+}
+
+p.Heading,
+li.Heading,
+div.Heading {
+    mso-style-name: Heading;
+    mso-style-unhide: no;
+    mso-style-parent: Standard;
+    mso-style-next: "Text body";
+    margin-top: 12.0pt;
+    margin-right: 0cm;
+    margin-bottom: 6.0pt;
+    margin-left: 0cm;
+    mso-pagination: widow-orphan;
+    page-break-after: avoid;
+    mso-hyphenate: none;
+    text-autospace: ideograph-other;
+    font-size: 14.0pt;
+    font-family: "Liberation Sans", "sans-serif";
+    mso-fareast-font-family: "Microsoft YaHei";
+    mso-bidi-font-family: Mangal;
+    mso-font-kerning: 1.5pt;
+    mso-fareast-language: ZH-CN;
+    mso-bidi-language: HI;
+}
+
+p.Textbody,
+li.Textbody,
+div.Textbody {
+    mso-style-name: "Text body";
+    mso-style-unhide: no;
+    mso-style-parent: Standard;
+    margin-top: 0cm;
+    margin-right: 0cm;
+    margin-bottom: 7.0pt;
+    margin-left: 0cm;
+    line-height: 115%;
+    mso-pagination: widow-orphan;
+    mso-hyphenate: none;
+    text-autospace: ideograph-other;
+    font-size: 12.0pt;
+    font-family: "Liberation Serif", "serif";
+    mso-fareast-font-family: NSimSun;
+    mso-bidi-font-family: Mangal;
+    mso-font-kerning: 1.5pt;
+    mso-fareast-language: ZH-CN;
+    mso-bidi-language: HI;
+}
+
+p.Caption,
+li.Caption,
+div.Caption {
+    mso-style-name: Caption;
+    mso-style-unhide: no;
+    mso-style-parent: Standard;
+    margin-top: 6.0pt;
+    margin-right: 0cm;
+    margin-bottom: 6.0pt;
+    margin-left: 0cm;
+    mso-pagination: widow-orphan no-line-numbers;
+    mso-hyphenate: none;
+    text-autospace: ideograph-other;
+    font-size: 12.0pt;
+    font-family: "Liberation Serif", "serif";
+    mso-fareast-font-family: NSimSun;
+    mso-bidi-font-family: Mangal;
+    mso-font-kerning: 1.5pt;
+    mso-fareast-language: ZH-CN;
+    mso-bidi-language: HI;
+    font-style: italic;
+}
+
+p.Index,
+li.Index,
+div.Index {
+    mso-style-name: Index;
+    mso-style-unhide: no;
+    mso-style-parent: Standard;
+    margin: 0cm;
+    margin-bottom: .0001pt;
+    mso-pagination: widow-orphan no-line-numbers;
+    mso-hyphenate: none;
+    text-autospace: ideograph-other;
+    font-size: 12.0pt;
+    font-family: "Liberation Serif", "serif";
+    mso-fareast-font-family: NSimSun;
+    mso-bidi-font-family: Mangal;
+    mso-font-kerning: 1.5pt;
+    mso-fareast-language: ZH-CN;
+    mso-bidi-language: HI;
+}
+
+p.TableContents,
+li.TableContents,
+div.TableContents {
+    mso-style-name: "Table Contents";
+    mso-style-unhide: no;
+    mso-style-parent: Standard;
+    margin: 0cm;
+    margin-bottom: .0001pt;
+    mso-pagination: widow-orphan no-line-numbers;
+    mso-hyphenate: none;
+    text-autospace: ideograph-other;
+    font-size: 12.0pt;
+    font-family: "Liberation Serif", "serif";
+    mso-fareast-font-family: NSimSun;
+    mso-bidi-font-family: Mangal;
+    mso-font-kerning: 1.5pt;
+    mso-fareast-language: ZH-CN;
+    mso-bidi-language: HI;
+}
+
+span.SpellE {
+    mso-style-name: "";
+    mso-spl-e: yes;
+}
+
+span.GramE {
+    mso-style-name: "";
+    mso-gram-e: yes;
+}
+
+.MsoChpDefault {
+    mso-style-type: export-only;
+    mso-default-props: yes;
+    font-size: 12.0pt;
+    mso-ansi-font-size: 12.0pt;
+    mso-bidi-font-size: 12.0pt;
+    mso-ascii-font-family: "Liberation Serif";
+    mso-fareast-font-family: NSimSun;
+    mso-hansi-font-family: "Liberation Serif";
+    mso-bidi-font-family: Mangal;
+    mso-font-kerning: 1.5pt;
+    mso-fareast-language: ZH-CN;
+    mso-bidi-language: HI;
+}
+
+.MsoPapDefault {
+    mso-style-type: export-only;
+    mso-hyphenate: none;
+    text-autospace: ideograph-other;
+}
+
+/* Page Definitions */
+@page {
+    mso-footnote-separator: url("") fs;
+    mso-footnote-continuation-separator: url("") fcs;
+    mso-endnote-separator: url("") es;
+    mso-endnote-continuation-separator: url("") ecs;
+}
+
+@page WordSection1 {
+    size: 595.3pt 841.9pt;
+    margin: 42.5pt 42.5pt 42.5pt 42.5pt;
+    mso-header-margin: 36.0pt;
+    mso-footer-margin: 36.0pt;
+    mso-paper-source: 0;
+}
+
+div.WordSection1 {
+    page: WordSection1;
+}
